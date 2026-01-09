@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Sub_Weapon_I-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Sub_Weapon_II-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <br/>
+  <img src="https://img.shields.io/badge/Shield-Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Inventory-Docker_&_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
