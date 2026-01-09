@@ -63,5 +63,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantraiseapomeranian&theme=dark&hide_border=true&background=00000000" width="100%" />
 </div>
-</div>
-</div>
