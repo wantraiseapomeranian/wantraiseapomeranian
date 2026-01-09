@@ -22,7 +22,7 @@
 
 * 🌱 **Main Focus:** Backend Development, System Architecture
 * 🔭 **Projects:** Review Tag (Community), King Heart (E-commerce)
-* 📧 **Contact:** (이메일 주소를 여기에 적으세요)
+* 📧 **Contact:** alswns6258@gmail.com
 
 <br/>
 
