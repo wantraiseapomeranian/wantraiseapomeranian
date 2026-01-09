@@ -58,8 +58,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wantraiseapomeranian&bg_color=0d1117&color=70a1ff&line=70a1ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wantraiseapomeranian&bg_color=151515&color=70a1ff&line=70a1ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
