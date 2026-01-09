@@ -43,9 +43,25 @@
 
 <br/>
 
-### 🕹️ Player Stats
+### 🕹️ Player Stats & Achievements
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wantraiseapomeranian&show_icons=true&theme=gotham&bg_color=00000000&hide_border=true&cache_seconds=0" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantraiseapomeranian&layout=compact&theme=gotham&bg_color=00000000&hide_border=true&cache_seconds=0" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wantraiseapomeranian&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wantraiseapomeranian&theme=github_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wantraiseapomeranian&theme=github_dark" alt="languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantraiseapomeranian&theme=dark&hide_border=true&background=00000000" width="100%" />
+</div>
 </div>
 </div>
