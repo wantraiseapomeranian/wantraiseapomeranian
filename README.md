@@ -45,16 +45,17 @@
 
 ### 🕹️ Player Stats & Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wantraiseapomeranian&show_icons=true&theme=gotham&bg_color=151515&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantraiseapomeranian&layout=compact&theme=gotham&bg_color=151515&hide_border=true" width="48%" />
-</div>
-
 <br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wantraiseapomeranian&theme=github_dark" alt="stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wantraiseapomeranian&theme=github_dark" alt="languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wantraiseapomeranian&bg_color=0d1117&color=70a1ff&line=70a1ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
