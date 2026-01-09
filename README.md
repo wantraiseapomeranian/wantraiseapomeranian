@@ -1,15 +1,73 @@
-<h1 align="center">Hi 👋, I'm 김민준</h1>
-<h3 align="center">백엔드 개발자 지망생입니다.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:1e1e1e&height=250&section=header&text=Growing%20Backend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Minjun's%20Profile&descAlignY=55&descSize=20" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wantraiseapomeranian&label=Profile%20views&color=0e75b6&style=flat" alt="wantaraiseapomeranian" /> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <br/>
+  <a href="https://github.com/wantraiseapomeranian">
+    <img src="https://komarev.com/ghpvc/?username=wantraiseapomeranian&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
+> **"서비스 관점에서 끊임없이 문제를 해결하며 성장하는 개발자 김민준입니다."**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wantraiseapomeranian&show_icons=true&locale=en&layout=compact" alt="wantaraiseapomeranian" /></p>
+안녕하세요! 안정적인 서버 아키텍처와 효율적인 데이터 처리를 고민하는 개발자입니다.
+**Spring Boot**와 **Oracle**을 주력으로 사용하며, 최근에는 **React**를 활용한 풀스택 개발로 영역을 넓혀가고 있습니다.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wantraiseapomeranian&show_icons=true&locale=en" alt="wantaraiseapomeranian" /></p>
+* 🌱 **Main Focus:** Backend Development, System Architecture
+* 🔭 **Projects:** Review Tag (Community), King Heart (E-commerce)
+* 📧 **Contact:** (이메일 주소를 여기에 적으세요)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend & Database
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,mybatis,oracle,mysql&theme=dark" />
+</div>
+
+### 🎨 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite,postman&theme=dark" />
+</div>
+
+### ☁️ Infrastructure & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea&theme=dark" />
+</div>
+
+<br/>
+
+## 🚀 Key Projects
+
+| 프로젝트 | 설명 | 기술 스택 |
+| :--- | :--- | :--- |
+| **🎬 Review Tag** | **영화/드라마 리뷰 & 퀴즈 커뮤니티**<br>게이미피케이션(퀴즈, 랭킹) 요소 도입 | `Spring Boot` `React` `Oracle` |
+| **🛍️ King Heart** | **종합 쇼핑몰 웹 애플리케이션**<br>주문/결제 프로세스 및 관리자 기능 | `Spring Boot` `JSP` `Oracle` |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wantraiseapomeranian&show_icons=true&theme=dark&bg_color=00000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantraiseapomeranian&layout=compact&theme=dark&bg_color=00000000&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantraiseapomeranian&theme=dark&hide_border=true&background=00000000" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"The best way to predict the future is to implement it."</i>
+</div>
