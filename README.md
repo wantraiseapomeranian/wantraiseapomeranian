@@ -28,9 +28,9 @@ Java/Spring 생태계를 주력으로 하며, 최근에는 React와 NestJS를 �
 ### 🛠️ Tech Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,springboot,nestjs,express,nodejs,oracle,mysql&theme=light" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,vite&theme=light" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux&theme=light" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,springboot,nestjs,ts,express,nodejs,oracle,mysql&theme=light" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,vite&theme=light" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github&theme=light" /> |
 
 <br/>
 
