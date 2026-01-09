@@ -40,7 +40,6 @@
 | **[Review Tag (Link)](https://github.com/ReviewTag-Project)** | <img src="https://img.shields.io/badge/CLEARED-success?style=flat-square"/> | `Spring Boot` `React` `Gamification` |
 | **[King Heart (Link)](https://github.com/wantraiseapomeranian/kingHeart)** | <img src="https://img.shields.io/badge/CLEARED-success?style=flat-square"/> | `JSP` `Oracle` `E-Commerce` |
 | **[Green Life Scouter (Link)](https://github.com/wantraiseapomeranian/green-life-scouter)** | <img src="https://img.shields.io/badge/AWARDED-special?style=flat-square&color=blueviolet"/> | `React` `Tailwind` `Hackathon` |
-| **[TDB Server (Link)](https://github.com/wantraiseapomeranian/TDB_Server)** | <img src="https://img.shields.io/badge/CLEARED-success?style=flat-square"/> | `NestJS` `IoT` `TypeScript` |
 
 <br/>
 
