@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:1e1e1e&height=250&section=header&text=Growing%20Backend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Minjun's%20Profile&descAlignY=55&descSize=20" width="100%" />
 </div>
 
-div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
