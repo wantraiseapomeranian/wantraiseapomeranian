@@ -46,9 +46,8 @@
 ### 🕹️ Player Stats & Achievements
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wantraiseapomeranian&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wantraiseapomeranian&show_icons=true&theme=gotham&bg_color=151515&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantraiseapomeranian&layout=compact&theme=gotham&bg_color=151515&hide_border=true" width="48%" />
 </div>
 
 <br/>
@@ -61,5 +60,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wantraiseapomeranian&theme=dark&hide_border=true&background=00000000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wantraiseapomeranian&bg_color=151515&color=70a1ff&line=70a1ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
