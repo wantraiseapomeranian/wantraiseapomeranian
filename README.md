@@ -24,7 +24,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Main_Weapon-Java_&_Spring-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Sub_Weapon-NestJS_&_React-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Sub_Weapon_I-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Sub_Weapon_II-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/Inventory-Docker_&_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
