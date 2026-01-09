@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:1e1e1e&height=250&section=header&text=Growing%20Backend%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Minjun's%20Profile&descAlignY=55&descSize=20" width="100%" />
 </div>
 
-<div align="center">
+div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <br/>
   <a href="https://github.com/wantraiseapomeranian">
@@ -30,17 +32,17 @@
 
 ### ⚙️ Backend & Database
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,mybatis,oracle,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,nestjs,express,nodejs,oracle,mysql&theme=dark" />
 </div>
 
 ### 🎨 Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,vite&theme=dark" />
 </div>
 
 ### ☁️ Infrastructure & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,raspberrypi,vercel,idea,vscode,postman&theme=dark" />
 </div>
 
 <br/>
@@ -49,8 +51,8 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 | :--- | :--- | :--- |
-| **🎬 Review Tag** | **영화/드라마 리뷰 & 퀴즈 커뮤니티**<br>게이미피케이션(퀴즈, 랭킹) 요소 도입 | `Spring Boot` `React` `Oracle` |
-| **🛍️ King Heart** | **종합 쇼핑몰 웹 애플리케이션**<br>주문/결제 프로세스 및 관리자 기능 | `Spring Boot` `JSP` `Oracle` |
+| **🎬 Review Tag** | **영화/드라마 리뷰 & 퀴즈 커뮤니티**<br>게이미피케이션(퀴즈, 랭킹) 요소 도입 및 관리자 기능 | `Spring Boot` `React` `Oracle` |
+| **🛍️ King Heart** | **종합 쇼핑몰 웹 애플리케이션**<br>상품 카테고리 및 옵션 구현, 장바구니 기능부터 주문/결제 프로세스 | `Spring Boot` `JSP` `Oracle` |
 
 <br/>
 
