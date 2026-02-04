@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=70a1ff&height=150&section=header&text=PLAYER%201%20READY&fontSize=70&fontAlign=50&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=70A1FF&center=true&vCenter=true&width=800&height=150&lines=PLAYER+1+READY;Let's+Code+Together!;Game+Start!" alt="Typing SVG" />
 </div>
 
 <div align="center">
